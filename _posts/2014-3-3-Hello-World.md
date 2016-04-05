@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Arkona bola pevnosť na ostrove Rujana (dnešné severovýchodné Nemecko), ktorá bola známa ako centrum kultu Svantovíta. Nachádzala sa tam údajne najväčšia svätyňa pre tohto a pre tohto boha. Bola posvätným miestom slovanského kmeňa Ránov, ktorí tu vybudovali túto svätyňu a potom aj celé chrámové mesto. Podľa písomných prameňov boli v interiéri prekrásne opony nadživotná so štyrmi hlavami. Dary sem priná ali dokonca aj cudzí panovníci.
+Saxo Grammaticus (dánsky stredoveký historik) svätyňu popisoval takto:
+„Ohrada chrámová na vonkajšej strane pútala pozornosť bohatými rezbami, rôzne maľovanými... V nej bol iba jeden vchod, ktorý sa otváral prichádzajúcim. Svätyňu samotnú naopak obklopovala dvojitá prepážka, z toho vonkajšia zo stien niesla strechu a vnútorná tvorená 4 stĺpmi namiesto stien sa skvela visutými oponami... Vo svätyni stála ohromná modla.“
+Ale dôvod prečo je Arkona považovaná za dôležitú je aj iný. Bola to posledná slovanská pevnosť ktorá odolávala nátlaku kresťanov až do roku 1168, keď bola zničená dánskym kráľom Valdemarom I.
+„Úpadkom pohanského obdobia u západných Slovanov možno nazvať tri storočia etapy od prijatia kresťanstva vládnucou vrstvou na Veľkej Morave až po zánik Arkony (1168), kedy bol aj v písomných prameeňoch zaznamenaný synkretizmus v kultovej sfére. Po prieniku kresťanstva pohanské prvky premietli v ideologickej báze novoakceptovaného náboženstva.“
+Arkona má dodnes veľký význam pre rodnovercov (t.j. nasledovníkov slovanskej pohanskej viery) a panslavistov v dnešnej dobe, keď sa veľa ľudí vracia k viere svojich pohanských predchodcov. Táto pevnosť je pre nich symbolom ich viery, strateného ale nazabudnutého dedičstva našich predkov ktoré storočia čaká na svoj návrat.
