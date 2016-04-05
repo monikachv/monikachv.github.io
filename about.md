@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: O všeličom :)
 permalink: /about/
 ---
 
-Some information about you!
+Som Monika a študujem na KISKu.
 
-### More Information
+### Viac informácii
 
-A place to include any other types of information that you'd like to include about yourself.
+Som zo Slovenska a mám rada metal.
 
-### Contact me
+### Kontakt
 
 [email@domain.com](mailto:email@domain.com)
