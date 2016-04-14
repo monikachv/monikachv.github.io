@@ -10,6 +10,6 @@ slovanskom panteóne chápa ako Boh-otec a zosobnenie nebeskej žiary a ohňa. S
 Svantovít, Jarovít a Rugevít sú pravdepodobne personifikáciou Perúna, prípadne jemu analogické božstvá. Medzi najdôležitekšie bohyne
 patrili napríklad Morana - bohyňa zimy a smrti alebo Lada - bohyňa krásy.
 
-<embed>https://s-media-cache-ak0.pinimg.com/736x/94/7b/52/947b52cb5a5fbff9b06edeb19c3a7081.jpg</embed>
+<a data-pin-do="embedPin" href="https://sk.pinterest.com/pin/350084571015590241/"></a>
 
 <embed> Tento článok som vybrala pretože je to zaujímavé a týka sa to mojej bloogovej témy, neviem čo tu mám viac napísať. :) </embed>
